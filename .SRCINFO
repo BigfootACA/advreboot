@@ -1,0 +1,21 @@
+pkgbase = advreboot
+	pkgdesc = Advanced reboot caller
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/BigfootACA/advreboot
+	arch = x86_64
+	arch = i686
+	arch = aarch64
+	arch = armv6
+	arch = armv7
+	license = LGPL3
+	depends = glibc
+	source = advreboot.c
+	source = LICENSE
+	source = Makefile
+	md5sums = 51376eb7a5eadd772cfa84cc0eb1cf40
+	md5sums = 3000208d539ec061b899bce1d9ce9404
+	md5sums = 6eecd8d77ac3f18f8c5c262a869c0f5d
+
+pkgname = advreboot
+
