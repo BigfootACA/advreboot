@@ -2,6 +2,8 @@
 *.orig
 *.swp
 *.save*
+*.plist
+*.gch
 *.o
 *.a
 *.out
